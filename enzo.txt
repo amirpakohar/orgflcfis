@@ -1,1 +1,1 @@
-vless://4bbe8463-5a3a-4ba5-ce11-7f0dba2d68f7@45.85.119.65:10657?encryption=none&security=tls&sni=panel.flcfis.shop&type=ws&host=panel.flcfis.shop&path=%40FLCFiS#%40FLCFiS-enzo
+vless://4bbe8463-5a3a-4ba5-ce11-7f0dba2d68f7@45.85.119.65:2083?encryption=none&security=tls&sni=panel.flcfis.shop&type=ws&host=panel.flcfis.shop&path=%40FLCFiS#%40FLCFiS-enzo
