@@ -1,3 +1,0 @@
-vless://b0839432-f15d-43a0-ab6c-bdd24e7ea8af@mci.flcfis.shop:2083?encryption=none&security=tls&sni=panel.flcfis.shop&type=ws&host=panel.flcfis.shop&path=%40FLCFiS#%40FLCFiS-b5agbe5qm
-vless://b0839432-f15d-43a0-ab6c-bdd24e7ea8af@159.246.55.58:2083?encryption=none&security=tls&sni=panel.flcfis.shop&type=ws&host=panel.flcfis.shop&path=%40FLCFiS#%40FLCFiS-b5agbe5qm
-vless://b0839432-f15d-43a0-ab6c-bdd24e7ea8af@188.42.88.252:2083?encryption=none&security=tls&sni=panel.flcfis.shop&type=ws&host=panel.flcfis.shop&path=%40FLCFiS#%40FLCFiS-b5agbe5qm
