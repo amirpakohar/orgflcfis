@@ -1,0 +1,2 @@
+vless://d9a8a946-0f12-4f71-b773-c7bbca6bde47@mci.flcfis.shop:10657?encryption=none&security=tls&sni=panel.flcfis.shop&type=ws&host=panel.flcfis.shop&path=%40FLCFiS#%40FLCFiS-1t0bw9np
+vless://d9a8a946-0f12-4f71-b773-c7bbca6bde47@159.246.55.58:10657?encryption=none&security=tls&sni=panel.flcfis.shop&type=ws&host=panel.flcfis.shop&path=%40FLCFiS#%40FLCFiS-1t0bw9np
